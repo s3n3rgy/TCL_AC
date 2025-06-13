@@ -7,7 +7,7 @@
 
 #ifndef TCL_ESP_TCL_H
 #define TCL_ESP_TCL_H
-#define unsigned char byte
+
 
 #include "esphome.h"
 #include "esphome/core/defines.h"
