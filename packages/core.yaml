@@ -2,7 +2,7 @@
 # Climate Component
 external_components:
   - source:
-      url: https://github.com/I-am-nightingale/tclac.git
+      url: https://github.com/s3n3rgy/TCL_AC.git
       type: git
       ref: master
     components: [ tclac ]
